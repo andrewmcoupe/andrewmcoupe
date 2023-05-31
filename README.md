@@ -1,6 +1,6 @@
 Hey 👋 
 
-I'm Andy Coupe. I'm currently building and maintaining the design system at Moonpig.com.
+I'm Andy Coupe. I'm a Frontend Lead at @elsewhencode.
 
 [![Andy's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrewmcoupe&count_private=true&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
