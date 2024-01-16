@@ -2,6 +2,8 @@ Hey 👋
 
 I'm Andy Coupe. I'm a Frontend Lead at [Elsewhen](https://github.com/elsewhencode).
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=andrewmcoupe&hide_border=true)](https://git.io/streak-stats)
+
 ## Let's connect
 
 [![Twitter](https://img.shields.io/badge/twitter-blue.svg?&style=for-the-badge&logo=twitter&logoColor=white)](http://twitter.com/andycoupedev)
